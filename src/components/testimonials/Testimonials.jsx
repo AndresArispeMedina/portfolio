@@ -42,7 +42,7 @@ const Testimonial = () => {
   return (
     <section id='testimonials'>
       <h5>Review from clients</h5>
-      <h2>Testimonials</h2>
+      <h2>I will update this when i have clients XD</h2>
 
       <Swiper 
       pagination={{clickable: true}} 
