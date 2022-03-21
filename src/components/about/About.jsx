@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/person.jpg'
+import ME from '../../assets/ChinaPalace.jpeg'
 import {BiAward} from 'react-icons/bi'
 import {FiUsers} from 'react-icons/fi'
 import {AiOutlineFolderAdd} from 'react-icons/ai'
@@ -27,19 +27,18 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon"/>
               <h5>Experience</h5>
-              <small>200+ Worldwide</small>
+              <small>25+ Worldwide</small>
             </article>
             <article className="about__card">
               <AiOutlineFolderAdd className="about__icon"/>
               <h5>Experience</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-            ssed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in.
+          Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. 
+          Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. 
+          Collaborative team player with excellent technical abilities offering 2 years of related experience.
           </p>
           <a href="#contact" className="btn btn-primary">Let's talk</a>
         </div>
